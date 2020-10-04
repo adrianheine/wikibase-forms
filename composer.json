@@ -15,5 +15,11 @@
     },
     "require": {
         "wikibase/data-model": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "scripts": {
+        "test": "phpunit"
     }
 }
