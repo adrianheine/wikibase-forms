@@ -14,6 +14,6 @@
         }
     },
     "require": {
-        "wikibase/data-model": "^7.3"
+        "wikibase/data-model": "^9.5.1|^8.0.0|^7.3.0"
     }
 }
